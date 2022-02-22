@@ -1,0 +1,12 @@
+.statistics{
+    width: max-content;
+    margin: 0 auto;
+    text-align: center;
+}
+.statisticsItem:not(:last-child){
+    margin-bottom: 15px;
+}
+.text{
+    font-size: 28px;
+    color: #691f417e;
+}
